@@ -2,7 +2,7 @@
 
 > **Turning isolated STEM chapters into a connected visual map of knowledge.**
 
-ConceptFlow is an AI-powered educational tool that transforms **two STEM textbook chapters from different subjects** into an interactive knowledge graph. It extracts important concepts, discovers relationships within each chapter, and—most importantly—reveals meaningful **cross-disciplinary connections** between concepts that students normally learn separately.
+ConceptFlow is an AI-powered educational tool that transforms **STEM textbook chapters from different subjects** into an interactive knowledge graph. It extracts important concepts, discovers relationships within each chapter, and—most importantly—reveals meaningful **cross-disciplinary connections** between concepts that students normally learn separately.
 
 **Hackathon MVP • Primary Challenge: Visual Concept Mapper for STEM Textbooks • Surprise Challenge: Cross-Disciplinary Concept Mapping**
 
